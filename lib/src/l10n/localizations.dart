@@ -26,7 +26,8 @@ class CupertinoLocalizationAr extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -67,7 +68,8 @@ class CupertinoLocalizationBg extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -114,7 +116,8 @@ class CupertinoLocalizationBs extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -161,7 +164,8 @@ class CupertinoLocalizationCa extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -208,7 +212,8 @@ class CupertinoLocalizationCs extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -255,7 +260,8 @@ class CupertinoLocalizationDa extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -302,17 +308,12 @@ class CupertinoLocalizationDe extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
     // TODO: implement datePickerHourSemanticsLabel
-    return null;
-  }
-
-  @override
-  String datePickerMinute(int minute) {
-    // TODO: implement datePickerMinute
     return null;
   }
 
@@ -354,7 +355,8 @@ class CupertinoLocalizationEl extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -472,7 +474,8 @@ class CupertinoLocalizationEn extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String timerPickerHour(int hour) => hour.toString();
@@ -536,17 +539,12 @@ class CupertinoLocalizationEs extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
     // TODO: implement datePickerHourSemanticsLabel
-    return null;
-  }
-
-  @override
-  String datePickerMinute(int minute) {
-    // TODO: implement datePickerMinute
     return null;
   }
 
@@ -683,7 +681,8 @@ class CupertinoLocalizationEt extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -730,7 +729,8 @@ class CupertinoLocalizationFa extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -777,7 +777,8 @@ class CupertinoLocalizationFi extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -824,7 +825,8 @@ class CupertinoLocalizationFil extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -871,17 +873,12 @@ class CupertinoLocalizationFr extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
     // TODO: implement datePickerHourSemanticsLabel
-    return null;
-  }
-
-  @override
-  String datePickerMinute(int minute) {
-    // TODO: implement datePickerMinute
     return null;
   }
 
@@ -923,7 +920,8 @@ class CupertinoLocalizationGsw extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -965,22 +963,56 @@ class CupertinoLocalizationGsw extends GlobalCupertinoLocalizations {
 /// The translations for Hebrew (`he`).
 class CupertinoLocalizationHe extends GlobalCupertinoLocalizations {
   CupertinoLocalizationHe({@required Locale locale}) : super(locale: locale);
+  static const List<String> _shortWeekdays = <String>[
+    'ב',
+    'ג',
+    'ד',
+    'ה',
+    'ו',
+    'ש',
+    'ט',
+  ];
+
+  static const List<String> _shortMonths = <String>[
+    'ינו',
+    'פבר',
+    'מרץ',
+    'אפר',
+    'מאי',
+    'יונ',
+    'יול',
+    'אוג',
+    'ספט',
+    'אוק',
+    'נוב',
+    'דצמ',
+  ];
+
+  static const List<String> _months = <String>[
+    'ינואר',
+    'פברואר',
+    'מרץ',
+    'אפריל',
+    'מאי',
+    'יוני',
+    'יולי',
+    'אוגוסט',
+    'ספטמבר',
+    'אוקטובר',
+    'נובמבר',
+    'דצמבר',
+  ];
 
   @override
-  DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
+  DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.dmy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
     // TODO: implement datePickerHourSemanticsLabel
-    return null;
-  }
-
-  @override
-  String datePickerMinute(int minute) {
-    // TODO: implement datePickerMinute
     return null;
   }
 
@@ -991,22 +1023,13 @@ class CupertinoLocalizationHe extends GlobalCupertinoLocalizations {
   }
 
   @override
-  String timerPickerHourLabel(int hour) {
-    // TODO: implement timerPickerHourLabel
-    return null;
-  }
+  String timerPickerHourLabel(int hour) => 'ש';
 
   @override
-  String timerPickerMinuteLabel(int minute) {
-    // TODO: implement timerPickerMinuteLabel
-    return null;
-  }
+  String timerPickerMinuteLabel(int minute) => 'דק';
 
   @override
-  String timerPickerSecondLabel(int second) {
-    // TODO: implement timerPickerSecondLabel
-    return null;
-  }
+  String timerPickerSecondLabel(int second) => 'שנ';
 }
 
 /// The translations for Hindi (`hi`).
@@ -1017,7 +1040,8 @@ class CupertinoLocalizationHi extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1064,7 +1088,8 @@ class CupertinoLocalizationHr extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1111,7 +1136,8 @@ class CupertinoLocalizationHu extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1158,7 +1184,8 @@ class CupertinoLocalizationId extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1205,17 +1232,12 @@ class CupertinoLocalizationIt extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
     // TODO: implement datePickerHourSemanticsLabel
-    return null;
-  }
-
-  @override
-  String datePickerMinute(int minute) {
-    // TODO: implement datePickerMinute
     return null;
   }
 
@@ -1252,7 +1274,8 @@ class CupertinoLocalizationJa extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1299,7 +1322,8 @@ class CupertinoLocalizationKm extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1346,7 +1370,8 @@ class CupertinoLocalizationKo extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1393,7 +1418,8 @@ class CupertinoLocalizationLt extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1440,7 +1466,8 @@ class CupertinoLocalizationLv extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1487,7 +1514,8 @@ class CupertinoLocalizationMn extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1534,7 +1562,8 @@ class CupertinoLocalizationMr extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1581,7 +1610,8 @@ class CupertinoLocalizationMs extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1628,7 +1658,8 @@ class CupertinoLocalizationNb extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1675,7 +1706,8 @@ class CupertinoLocalizationNl extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1722,17 +1754,12 @@ class CupertinoLocalizationPl extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
     // TODO: implement datePickerHourSemanticsLabel
-    return null;
-  }
-
-  @override
-  String datePickerMinute(int minute) {
-    // TODO: implement datePickerMinute
     return null;
   }
 
@@ -1769,7 +1796,8 @@ class CupertinoLocalizationPs extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1816,7 +1844,8 @@ class CupertinoLocalizationPt extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1868,7 +1897,8 @@ class CupertinoLocalizationRo extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -1966,9 +1996,6 @@ class CupertinoLocalizationRu extends GlobalCupertinoLocalizations {
   String datePickerHourSemanticsLabel(int hour) => hour.toString() + " часов";
 
   @override
-  String datePickerMinute(int minute) => minute.toString().padLeft(2, '0');
-
-  @override
   String datePickerMinuteSemanticsLabel(int minute) {
     final num lastUnit = minute % 10;
     switch (lastUnit) {
@@ -1994,7 +2021,8 @@ class CupertinoLocalizationRu extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String timerPickerHour(int hour) => hour.toString();
@@ -2040,7 +2068,8 @@ class CupertinoLocalizationSk extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2087,7 +2116,8 @@ class CupertinoLocalizationSl extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2134,7 +2164,8 @@ class CupertinoLocalizationSr extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2175,12 +2206,14 @@ class CupertinoLocalizationSr extends GlobalCupertinoLocalizations {
 
 /// The translations for Serbian, using the Cyrillic script (`sr_Cyrl`).
 class CupertinoLocalizationSrCyrl extends CupertinoLocalizationSr {
-  CupertinoLocalizationSrCyrl({@required Locale locale}) : super(locale: locale);
+  CupertinoLocalizationSrCyrl({@required Locale locale})
+      : super(locale: locale);
 }
 
 /// The translations for Serbian, using the Latin script (`sr_Latn`).
 class CupertinoLocalizationSrLatn extends CupertinoLocalizationSr {
-  CupertinoLocalizationSrLatn({@required Locale locale}) : super(locale: locale);
+  CupertinoLocalizationSrLatn({@required Locale locale})
+      : super(locale: locale);
 }
 
 /// The translations for Swedish (`sv`).
@@ -2191,7 +2224,8 @@ class CupertinoLocalizationSv extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2238,7 +2272,8 @@ class CupertinoLocalizationTa extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2285,7 +2320,8 @@ class CupertinoLocalizationTh extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2332,7 +2368,8 @@ class CupertinoLocalizationTl extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2379,7 +2416,8 @@ class CupertinoLocalizationTr extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2426,7 +2464,8 @@ class CupertinoLocalizationUk extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2473,7 +2512,8 @@ class CupertinoLocalizationUr extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2520,7 +2560,8 @@ class CupertinoLocalizationVi extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.mdy;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2567,7 +2608,8 @@ class CupertinoLocalizationZh extends GlobalCupertinoLocalizations {
   DatePickerDateOrder get datePickerDateOrder => DatePickerDateOrder.ymd;
 
   @override
-  DatePickerDateTimeOrder get datePickerDateTimeOrder => DatePickerDateTimeOrder.date_time_dayPeriod;
+  DatePickerDateTimeOrder get datePickerDateTimeOrder =>
+      DatePickerDateTimeOrder.date_time_dayPeriod;
 
   @override
   String datePickerYear(int yearIndex) {
@@ -2612,17 +2654,20 @@ class CupertinoLocalizationZh extends GlobalCupertinoLocalizations {
 
 /// The translations for Chinese, using the Han script (`zh_Hans`).
 class CupertinoLocalizationZhHans extends CupertinoLocalizationZh {
-  CupertinoLocalizationZhHans({@required Locale locale}) : super(locale: locale);
+  CupertinoLocalizationZhHans({@required Locale locale})
+      : super(locale: locale);
 }
 
 /// The translations for Chinese, using the Han script (`zh_Hant`).
 class CupertinoLocalizationZhHant extends CupertinoLocalizationZh {
-  CupertinoLocalizationZhHant({@required Locale locale}) : super(locale: locale);
+  CupertinoLocalizationZhHant({@required Locale locale})
+      : super(locale: locale);
 }
 
 /// The translations for Chinese, as used in Hong Kong, using the Han script (`zh_Hant_HK`).
 class CupertinoLocalizationZhHantHk extends CupertinoLocalizationZhHant {
-  CupertinoLocalizationZhHantHk({@required Locale locale}) : super(locale: locale);
+  CupertinoLocalizationZhHantHk({@required Locale locale})
+      : super(locale: locale);
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2652,7 +2697,8 @@ class CupertinoLocalizationZhHantHk extends CupertinoLocalizationZhHant {
 
 /// The translations for Chinese, as used in Taiwan, using the Han script (`zh_Hant_TW`).
 class CupertinoLocalizationZhHantTw extends CupertinoLocalizationZhHant {
-  CupertinoLocalizationZhHantTw({@required Locale locale}) : super(locale: locale);
+  CupertinoLocalizationZhHantTw({@required Locale locale})
+      : super(locale: locale);
 
   @override
   String datePickerHourSemanticsLabel(int hour) {
@@ -2743,7 +2789,9 @@ class CupertinoLocalizationZhHantTw extends CupertinoLocalizationZhHant {
 ///
 /// Generally speaking, this method is only intended to be used by
 /// [GlobalCupertinoLocalizations.delegate].
-GlobalCupertinoLocalizations getCupertinoTranslation(Locale locale,) {
+GlobalCupertinoLocalizations getCupertinoTranslation(
+  Locale locale,
+) {
   switch (locale.languageCode) {
     case 'ar':
       return CupertinoLocalizationAr(locale: locale);
