@@ -6,6 +6,8 @@
 // To regenerate the file, use:
 // dart dev/tools/gen_localizations.dart --overwrite
 
+import 'dart:collection';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -3011,3 +3013,15 @@ GlobalCupertinoLocalizations getCupertinoTranslation(
   assert(false, 'getTranslation() called for unsupported locale "$locale"');
   return null;
 }
+
+final Set<String> kCupertinoSupportedLanguages =
+    HashSet<String>.from(const <String>[
+  'en', // English
+  'fr', // French
+  'iw',
+  'zh',
+  'ru',
+  'pl',
+  'de',
+  'es',
+]);
