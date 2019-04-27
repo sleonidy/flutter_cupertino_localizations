@@ -3019,6 +3019,7 @@ final Set<String> kCupertinoSupportedLanguages =
   'en', // English
   'fr', // French
   'iw',
+  'he',
   'zh',
   'ru',
   'pl',
