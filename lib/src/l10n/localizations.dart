@@ -60,6 +60,9 @@ class CupertinoLocalizationAr extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  String get todayLabel => null;
 }
 
 /// The translations for Bulgarian (`bg`).
@@ -108,6 +111,9 @@ class CupertinoLocalizationBg extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  String get todayLabel => null;
 }
 
 /// The translations for Bosnian (`bs`).
@@ -156,6 +162,9 @@ class CupertinoLocalizationBs extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  String get todayLabel => null;
 }
 
 /// The translations for Catalan Valencian (`ca`).
@@ -204,6 +213,9 @@ class CupertinoLocalizationCa extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  String get todayLabel => null;
 }
 
 /// The translations for Czech (`cs`).
@@ -252,6 +264,9 @@ class CupertinoLocalizationCs extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  String get todayLabel => null;
 }
 
 /// The translations for Danish (`da`).
@@ -300,6 +315,9 @@ class CupertinoLocalizationDa extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  String get todayLabel => null;
 }
 
 /// The translations for German (`de`).
@@ -342,6 +360,9 @@ class CupertinoLocalizationDe extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  String get todayLabel => "Heute";
 }
 
 /// The translations for German, as used in Switzerland (`de_CH`).
@@ -395,6 +416,9 @@ class CupertinoLocalizationEl extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  String get todayLabel => null;
 }
 
 /// The translations for English (`en`).
@@ -496,6 +520,9 @@ class CupertinoLocalizationEn extends GlobalCupertinoLocalizations {
 
   @override
   String timerPickerSecondLabel(int second) => 'sec';
+
+  @override
+  String get todayLabel => null;
 }
 
 /// The translations for English, as used in Australia (`en_AU`).
@@ -573,6 +600,9 @@ class CupertinoLocalizationEs extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  String get todayLabel => "Hoy";
 }
 
 /// The translations for Spanish Castilian, as used in Latin America and the Caribbean (`es_419`).
@@ -721,6 +751,10 @@ class CupertinoLocalizationEt extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => null;
 }
 
 /// The translations for Persian (`fa`).
@@ -769,6 +803,10 @@ class CupertinoLocalizationFa extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => null;
 }
 
 /// The translations for Finnish (`fi`).
@@ -817,6 +855,10 @@ class CupertinoLocalizationFi extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => null;
 }
 
 /// The translations for Filipino Pilipino (`fil`).
@@ -865,6 +907,10 @@ class CupertinoLocalizationFil extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => null;
 }
 
 /// The translations for French (`fr`).
@@ -907,6 +953,9 @@ class CupertinoLocalizationFr extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  String get todayLabel => "Aujourd'hui";
 }
 
 /// The translations for French, as used in Canada (`fr_CA`).
@@ -960,12 +1009,17 @@ class CupertinoLocalizationGsw extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => null;
 }
 
 /// The translations for Hebrew (`he`).
 class CupertinoLocalizationHe extends GlobalCupertinoLocalizations {
   CupertinoLocalizationHe({@required Locale locale}) : super(locale: locale);
   static const List<String> _shortWeekdays = <String>[
+    'א',
     'ב',
     'ג',
     'ד',
@@ -1032,6 +1086,10 @@ class CupertinoLocalizationHe extends GlobalCupertinoLocalizations {
 
   @override
   String timerPickerSecondLabel(int second) => 'שנ';
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => "היום";
 }
 
 /// The translations for Hindi (`hi`).
@@ -1080,6 +1138,10 @@ class CupertinoLocalizationHi extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => null;
 }
 
 /// The translations for Croatian (`hr`).
@@ -1128,6 +1190,10 @@ class CupertinoLocalizationHr extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => null;
 }
 
 /// The translations for Hungarian (`hu`).
@@ -1176,6 +1242,10 @@ class CupertinoLocalizationHu extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => null;
 }
 
 /// The translations for Indonesian (`id`).
@@ -1224,6 +1294,10 @@ class CupertinoLocalizationId extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => null;
 }
 
 /// The translations for Italian (`it`).
@@ -1266,6 +1340,10 @@ class CupertinoLocalizationIt extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => null;
 }
 
 /// The translations for Japanese (`ja`).
@@ -1314,10 +1392,17 @@ class CupertinoLocalizationJa extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  // TODO: implement todayLabel
+  String get todayLabel => null;
 }
 
 /// The translations for Khmer Central Khmer (`km`).
 class CupertinoLocalizationKm extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationKm({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1366,6 +1451,9 @@ class CupertinoLocalizationKm extends GlobalCupertinoLocalizations {
 
 /// The translations for Korean (`ko`).
 class CupertinoLocalizationKo extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationKo({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1414,6 +1502,9 @@ class CupertinoLocalizationKo extends GlobalCupertinoLocalizations {
 
 /// The translations for Lithuanian (`lt`).
 class CupertinoLocalizationLt extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationLt({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1462,6 +1553,9 @@ class CupertinoLocalizationLt extends GlobalCupertinoLocalizations {
 
 /// The translations for Latvian (`lv`).
 class CupertinoLocalizationLv extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationLv({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1510,6 +1604,9 @@ class CupertinoLocalizationLv extends GlobalCupertinoLocalizations {
 
 /// The translations for Mongolian (`mn`).
 class CupertinoLocalizationMn extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationMn({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1558,6 +1655,9 @@ class CupertinoLocalizationMn extends GlobalCupertinoLocalizations {
 
 /// The translations for Marathi (`mr`).
 class CupertinoLocalizationMr extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationMr({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1606,6 +1706,9 @@ class CupertinoLocalizationMr extends GlobalCupertinoLocalizations {
 
 /// The translations for Malay (`ms`).
 class CupertinoLocalizationMs extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationMs({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1654,6 +1757,9 @@ class CupertinoLocalizationMs extends GlobalCupertinoLocalizations {
 
 /// The translations for Norwegian Bokmål (`nb`).
 class CupertinoLocalizationNb extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationNb({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1702,6 +1808,9 @@ class CupertinoLocalizationNb extends GlobalCupertinoLocalizations {
 
 /// The translations for Dutch Flemish (`nl`).
 class CupertinoLocalizationNl extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationNl({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1788,10 +1897,16 @@ class CupertinoLocalizationPl extends GlobalCupertinoLocalizations {
     // TODO: implement timerPickerSecondLabel
     return null;
   }
+
+  @override
+  String get todayLabel => "Dzisiaj";
 }
 
 /// The translations for Pushto Pashto (`ps`).
 class CupertinoLocalizationPs extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationPs({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1840,6 +1955,9 @@ class CupertinoLocalizationPs extends GlobalCupertinoLocalizations {
 
 /// The translations for Portuguese (`pt`).
 class CupertinoLocalizationPt extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationPt({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1893,6 +2011,9 @@ class CupertinoLocalizationPtPt extends CupertinoLocalizationPt {
 
 /// The translations for Romanian Moldavian Moldovan (`ro`).
 class CupertinoLocalizationRo extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationRo({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -1941,6 +2062,9 @@ class CupertinoLocalizationRo extends GlobalCupertinoLocalizations {
 
 /// The translations for Russian (`ru`).
 class CupertinoLocalizationRu extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => "Сегодня";
+
   CupertinoLocalizationRu({@required Locale locale}) : super(locale: locale);
   static const List<String> _shortWeekdays = <String>[
     'Пн',
@@ -2064,6 +2188,9 @@ class CupertinoLocalizationRu extends GlobalCupertinoLocalizations {
 
 /// The translations for Slovak (`sk`).
 class CupertinoLocalizationSk extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationSk({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -2112,6 +2239,9 @@ class CupertinoLocalizationSk extends GlobalCupertinoLocalizations {
 
 /// The translations for Slovenian (`sl`).
 class CupertinoLocalizationSl extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationSl({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -2160,6 +2290,9 @@ class CupertinoLocalizationSl extends GlobalCupertinoLocalizations {
 
 /// The translations for Serbian (`sr`).
 class CupertinoLocalizationSr extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationSr({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -2220,6 +2353,9 @@ class CupertinoLocalizationSrLatn extends CupertinoLocalizationSr {
 
 /// The translations for Swedish (`sv`).
 class CupertinoLocalizationSv extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationSv({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -2268,6 +2404,9 @@ class CupertinoLocalizationSv extends GlobalCupertinoLocalizations {
 
 /// The translations for Tamil (`ta`).
 class CupertinoLocalizationTa extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationTa({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -2316,6 +2455,9 @@ class CupertinoLocalizationTa extends GlobalCupertinoLocalizations {
 
 /// The translations for Thai (`th`).
 class CupertinoLocalizationTh extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationTh({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -2364,6 +2506,9 @@ class CupertinoLocalizationTh extends GlobalCupertinoLocalizations {
 
 /// The translations for Tagalog (`tl`).
 class CupertinoLocalizationTl extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationTl({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -2412,6 +2557,9 @@ class CupertinoLocalizationTl extends GlobalCupertinoLocalizations {
 
 /// The translations for Turkish (`tr`).
 class CupertinoLocalizationTr extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationTr({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -2460,6 +2608,9 @@ class CupertinoLocalizationTr extends GlobalCupertinoLocalizations {
 
 /// The translations for Ukrainian (`uk`).
 class CupertinoLocalizationUk extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationUk({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -2508,6 +2659,9 @@ class CupertinoLocalizationUk extends GlobalCupertinoLocalizations {
 
 /// The translations for Urdu (`ur`).
 class CupertinoLocalizationUr extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationUr({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -2556,6 +2710,9 @@ class CupertinoLocalizationUr extends GlobalCupertinoLocalizations {
 
 /// The translations for Vietnamese (`vi`).
 class CupertinoLocalizationVi extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationVi({@required Locale locale}) : super(locale: locale);
 
   @override
@@ -2604,6 +2761,9 @@ class CupertinoLocalizationVi extends GlobalCupertinoLocalizations {
 
 /// The translations for Chinese (`zh`).
 class CupertinoLocalizationZh extends GlobalCupertinoLocalizations {
+  @override
+  String get todayLabel => null;
+
   CupertinoLocalizationZh({@required Locale locale}) : super(locale: locale);
 
   @override
